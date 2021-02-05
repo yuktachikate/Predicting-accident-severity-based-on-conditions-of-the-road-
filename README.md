@@ -1,0 +1,2 @@
+# Predicting-accident-severity-based-on-conditions-of-the-road-
+• Achieved an accuracy of 86% &amp; 79% respectively using Random forest &amp; Linear Regression models for severity prediction. • Created a machine learning model using Python’s sci-kit learn module to predict the accident severity based on the road conditions using random forest and linear regression methods to help understand the accident-prone areas and alert the drivers.
